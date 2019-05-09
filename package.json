@@ -1,0 +1,14 @@
+{
+  "name": "steem-wallet-watcher",
+  "version": "1.0.0",
+  "description": "records all in and out going transactions",
+  "main": "app.js",
+  "scripts": {},
+  "author": "steemit.com/@devske",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "sqlite": "^3.0.3",
+    "steembotter": "^0.8.1"
+  }
+}
