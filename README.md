@@ -9,6 +9,8 @@ and, you are able to record every transaction made on the blockchain. <br><br>
 TIP: I have uploaded a program called "SQLite Database Browser"<br>
 within the "INSTAL" folder. This program you can use to open<br>
 the local database to view the stored information.<br>
+
+**Currently it only records incoming transactions**
 <hr>
 
 ### Contact the developer:
